@@ -1,0 +1,71 @@
+11,"t","Honey Bee Colonies: Released August 1, 2022, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+11,"t","Colonies, Maximum, Lost, Percent Lost, Added, Renovated, and Percent Renovated with Five or More Colonies – States and United States: January 1, 2022 and January-March 2022"
+11,"h","","","","","","","",""
+11,"h","","","January-March","January-March","January-March","January-March","January-March","January-March"
+11,"h","State","January 1","","","","","",""
+11,"h","","colonies","Maximum","Lost","Percent","Added","Renovated","Percent"
+11,"h","","","colonies 1/","colonies","lost 2/","colonies","colonies 3/","renovated 4/"
+11,"h","","","","","","","",""
+11,"u","","(number)","(number)","(number)","(percent)","(number)","(number)","(percent)"
+11,"d","Alabama",8000,11500,1100,10,1600,520,5
+11,"d","Arizona",25000,28000,2300,8,4700,10,"(Z)"
+11,"d","Arkansas",18500,21000,2600,12,780,20,"(Z)"
+11,"d","California",1020000,1330000,163000,12,139000,95000,7
+11,"d","Colorado",3800,8500,540,6,-,10,"(Z)"
+11,"d","Connecticut",4000,4000,420,11,500,170,4
+11,"d","Florida",295000,295000,24000,8,50000,13500,5
+11,"d","Georgia",118000,119000,14000,12,26000,18000,15
+11,"d","Hawaii",21000,21000,1600,8,2600,1000,5
+11,"d","Idaho",194000,215000,8000,4,7500,1000,"(Z)"
+11,"d","",,,,,,,
+11,"d","Illinois",11500,11500,2200,19,900,140,1
+11,"d","Indiana",11000,11000,2900,26,130,30,"(Z)"
+11,"d","Iowa",26000,29000,2800,10,610,30,"(Z)"
+11,"d","Kansas",5000,5000,520,10,140,60,1
+11,"d","Kentucky",8500,9500,1300,14,50,160,2
+11,"d","Louisiana",35000,42000,6000,14,7000,2200,5
+11,"d","Maine",3100,7000,340,5,300,120,2
+11,"d","Maryland",6500,7500,1900,25,1800,1000,13
+11,"d","Massachusetts",6000,6000,950,16,350,510,9
+11,"d","Michigan",66000,77000,4500,6,1400,2500,3
+11,"d","",,,,,,,
+11,"d","Minnesota",95000,98000,1500,2,6000,80,"(Z)"
+11,"d","Mississippi",20000,38000,3300,9,12000,2100,6
+11,"d","Missouri",7000,11000,730,7,310,570,5
+11,"d","Montana",45000,54000,300,1,30,-,"(Z)"
+11,"d","Nebraska",24000,30000,840,3,30,-,-
+11,"d","New Jersey",15000,15000,550,4,1500,30,"(Z)"
+11,"d","New Mexico",5500,8000,1900,24,1000,-,-
+11,"d","New York",44000,44000,5500,13,370,730,2
+11,"d","North Carolina",20000,24000,2300,10,3100,520,2
+11,"d","North Dakota",75000,89000,120,"(Z)",300,-,-
+11,"d","",,,,,,,
+11,"d","Ohio",16000,16000,1800,11,30,530,3
+11,"d","Oklahoma",20000,20000,3000,15,50,3500,18
+11,"d","Oregon",92000,95000,5000,5,2400,310,"(Z)"
+11,"d","Pennsylvania",23000,25000,2800,11,470,360,1
+11,"d","South Carolina",17000,20000,2500,13,4500,830,4
+11,"d","South Dakota",21000,28000,1000,4,40,-,-
+11,"d","Tennessee",10500,10500,2300,22,1300,200,2
+11,"d","Texas",270000,400000,37000,9,80000,34000,9
+11,"d","Utah",28000,32000,4100,13,4600,740,2
+11,"d","Vermont",7000,8000,380,5,-,-,-
+11,"d","",,,,,,,
+11,"d","Virginia",7500,10000,1700,17,940,200,2
+11,"d","Washington",70000,102000,7500,7,1400,6000,6
+11,"d","West Virginia",5500,5500,1000,18,420,200,4
+11,"d","Wisconsin",39000,53000,2800,5,1400,240,"(Z)"
+11,"d","Wyoming",6000,8000,180,2,20,-,-
+11,"d","",,,,,,,
+11,"d","Other States 5/",6870,7230,710,10,320,60,1
+11,"d","",,,,,,,
+11,"d","United States",2875770,"(X)",331780,12,367890,187180,7
+11,"c",""
+11,"f","-  Represents zero."
+11,"f","(X)  Not applicable."
+11,"f","(Z)  Less than half of the unit shown."
+11,"f","1/ January 1 colonies plus all colonies moved into that state during the quarter."
+11,"f","2/ Percent lost is the number of lost colonies divided by maximum colonies except for the United States, where percent lost is the number of lost colonies divided by the January 1 colonies."
+11,"f","3/ Defined as any surviving colony that was requeened or received new honey bees through nuc or package."
+11,"f","4/ Percent renovated is the number of renovated colonies divided by maximum colonies except for the United States, where percent renovated is the number of renovated colonies divided by the January 1 colonies."
+11,"f","5/ Includes data for States not published in this table."

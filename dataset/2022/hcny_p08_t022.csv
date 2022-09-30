@@ -1,0 +1,70 @@
+22,"t","Honey Bee Colonies: Released August 1, 2022, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+22,"t","Colonies, Maximum, Lost, Percent Lost, Added, Renovated, and Percent Renovated with Five or More Colonies – States and United States: April 1, 2022 and April-June 2022"
+22,"h","","","","","","","",""
+22,"h","","","April-June","April-June","April-June","April-June","April-June","April-June"
+22,"h","State","April 1","","","","","",""
+22,"h","","colonies","Maximum","Lost","Percent","Added","Renovated","Percent"
+22,"h","","","colonies 1/","colonies","lost 2/","colonies","colonies 3/","renovated 4/"
+22,"h","","","","","","","",""
+22,"u","","(number)","(number)","(number)","(percent)","(number)","(number)","(percent)"
+22,"d","Alabama",12000,12000,1300,11,4600,1900,16
+22,"d","Arizona",31000,32000,3100,10,17500,2800,9
+22,"d","Arkansas",19000,22000,2800,13,5000,1100,5
+22,"d","California",980000,1030000,82000,8,154000,121000,12
+22,"d","Colorado",8000,19500,1400,7,7500,2300,12
+22,"d","Connecticut",4100,4100,30,1,130,30,1
+22,"d","Florida",290000,300000,34000,11,40000,39000,13
+22,"d","Georgia",132000,134000,25000,19,27000,47000,35
+22,"d","Hawaii",22000,22000,420,2,2200,2100,10
+22,"d","Idaho",103000,111000,14500,13,35000,8500,8
+22,"d","",,,,,,,
+22,"d","Illinois",9000,9500,1100,12,4300,2100,22
+22,"d","Indiana",8000,10000,1600,16,5500,620,6
+22,"d","Iowa",27000,28000,2300,8,5000,2400,9
+22,"d","Kansas",4600,4900,650,13,6000,580,12
+22,"d","Kentucky",6500,10500,610,6,3600,460,4
+22,"d","Louisiana",43000,43000,1900,4,8500,11500,27
+22,"d","Maine",7000,19000,890,5,1300,300,2
+22,"d","Maryland",7500,8500,390,5,1600,1100,13
+22,"d","Massachusetts",5500,14000,290,2,1200,910,7
+22,"d","Michigan",74000,90000,3200,4,13000,3500,4
+22,"d","",,,,,,,
+22,"d","Minnesota",102000,110000,1500,1,6000,2000,2
+22,"d","Mississippi",46000,47000,4000,9,16000,7000,15
+22,"d","Missouri",10500,10500,1500,14,6000,4800,46
+22,"d","Montana",38000,102000,970,1,5500,8000,8
+22,"d","Nebraska",19000,45000,2400,5,8000,5000,11
+22,"d","New Jersey",16000,19000,140,1,2600,70,"(Z)"
+22,"d","New Mexico",7000,7000,1600,23,4200,2200,31
+22,"d","New York",35000,53000,2000,4,6000,4400,8
+22,"d","North Carolina",25000,30000,1200,4,7500,3300,11
+22,"d","North Dakota",90000,455000,16500,4,12000,9000,2
+22,"d","",,,,,,,
+22,"d","Ohio",14500,14500,400,3,4300,1200,8
+22,"d","Oklahoma",12500,20000,1100,6,10500,2100,11
+22,"d","Oregon",94000,96000,4200,4,12500,19500,20
+22,"d","Pennsylvania",23000,24000,730,3,7000,2300,10
+22,"d","South Carolina",22000,23000,2500,11,3500,3200,14
+22,"d","South Dakota",13500,184000,4100,2,2100,19000,10
+22,"d","Tennessee",9500,11500,4400,38,9000,1200,10
+22,"d","Texas",345000,415000,41000,10,83000,114000,27
+22,"d","Utah",23000,29000,4300,15,8500,5000,17
+22,"d","Vermont",7500,8500,150,2,3300,160,2
+22,"d","",,,,,,,
+22,"d","Virginia",9000,10500,580,6,2900,680,6
+22,"d","Washington",97000,109000,6000,6,12500,23000,21
+22,"d","West Virginia",5000,7500,260,3,2400,2600,35
+22,"d","Wisconsin",52000,62000,1600,3,6000,1300,2
+22,"d","Wyoming",8000,23000,1900,8,4500,1800,8
+22,"d","",,,,,,,
+22,"d","Other States 5/",4390,4690,120,3,900,400,9
+22,"d","",,,,,,,
+22,"d","United States",2921590,"(X)",282630,10,589630,492410,17
+22,"c",""
+22,"f","(X)  Not applicable."
+22,"f","(Z)  Less than half of the unit shown."
+22,"f","1/ April 1 number of colonies plus all colonies moved into that state during the quarter."
+22,"f","2/ Percent lost is the number of lost colonies divided by maximum colonies except for the United States, where percent lost is the number of lost colonies divided by the April 1 number of colonies."
+22,"f","3/ Defined as any surviving colony that was requeened or received new honey bees through nuc or package."
+22,"f","4/ Percent renovated is the number of renovated colonies divided by maximum colonies except for the United States, where percent renovated is the number of renovated colonies divided by the April 1 number of colonies."
+22,"f","5/ Includes data for States not published in this table."

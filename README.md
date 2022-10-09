@@ -4,9 +4,9 @@
 
 ## Introduction
 
-Honey bee is one of the most important crop pollinators in the United States. It is estimated that the honey bees add $15 billion worth of crop each year. 
+Honey bee is one of the most important crop pollinators in the United States. It is estimated that the honey bees add $15 billion worth of crop each year. Over the past 50 years, the percentage of honey bee colonies have declines dramatically with 30 percent of bee hives collapsed due to pesticide, parasite, diseases, and malnutrition. In this analysis, I conducted a basic analysis on the trend of the US honey bee colonies loss percentage since the year of 2015 with stressors including varroa mites, pesticides, and diseases.
 
-The loss of bee colonies in US has been a significant issue since 2006 with the rise of [colony collapse disorder](https://www.epa.gov/pollinator-protection/colony-collapse-disorder). Despite all the efforts to management, the number of ...
+
 
 ## References
 

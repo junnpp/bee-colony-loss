@@ -1,6 +1,8 @@
 # Bee Colony Loss Analysis
 
-![logo](./images/0-logo.jpg)
+<p align="left">
+<img src="./images/0-logo.jpg" width="600"/>
+</p>
 
 > This report provides information on honey bee colonies in terms of the number of colonies, maximum, lost, percent lost, added, renovated, and percent renovated, as well as colonies lost with Colony Collapse Disorder symptoms with both over and less than five colonies. The report also identifies colony health stressors with five or more colonies. The data for operations with honey bee colonies are collected from a stratified sample of operations that responded as having honey bees on the Bee and Honey Inquiry and from the NASS list frame. For operations with five or more colonies, data was collected on a quarterly basis; operations with less than five colonies were collected with an annual survey.
 
@@ -33,7 +35,7 @@ The beekeepers who participated in the survey reported that the overall average 
 The average annual loss percentage in 2021-2022 is 9.79% [95% CI 8.22-11.35%]. Before 2021, the average percentage was estimated at 11.04% [95% CI 10.24-11.85%]. The average annual colony lost percentage has slightly declined (by 1.25%). In 2021-2022, the loss percentage of the summer and that of winter are  8.96% [95% CI 8.15-9.77%] and 11.29% [95% CI 10.39-12.19%], respectively. This difference between the two seasons is due to [various factors](https://www.beepods.com/top-5-reasons-bees-dont-survive-winter/#:~:text=The%20warm%20moisture%20evaporates%20off,results%20in%20the%20bees%20dying.).
 
 <p align="left">
-<img src="images/fig2-perseason.png" width="600">
+<img src="images/fig2-perseason.png" width="500">
 </p>
 
 Despite the continuing high colony loss rates, the overall number of colonies has increased to 2.59 million in 2016 from 2.39 million in 2006, for example. One explanation for this increase is the beekeepers' efforts to manage the colonies: splitting healthy colonies to replace dead colonies or adding more colonies. In the year 2021-2022, the correlations between the colony loss - colony added and colony loss - colony renovated are almost identical with 0.779 [95% CI ]and 0.772, respectively. There is not a particular preference among beekeepers regarding whether to add or renovate bee colonies.
@@ -55,7 +57,7 @@ The distributions of stressors (Varroa Mites, pesticites, diseases, others, and 
 </p>
 
 <p align="left">
-<img src="images/fig7-varroa-mites-per-region.png" width="60"/>
+<img src="images/fig7-varroa-mites-per-region.png" width="600"/>
 </p>
 
 ## References
